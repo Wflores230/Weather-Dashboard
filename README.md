@@ -1,4 +1,3 @@
-![Screenshot (52)](https://user-images.githubusercontent.com/76802722/111057788-1fc62580-8458-11eb-97ee-2471176494dd.png)
 # Weather-Dashboard
 
 ## Description 

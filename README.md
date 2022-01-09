@@ -10,3 +10,6 @@ First time working with Open weather API and it was somewhat diffcult at first, 
 https://wflores230.github.io/Weather-Dashboard/.
 
 # Screenshots
+![Screenshot (52)](https://user-images.githubusercontent.com/76802722/111057856-7d5a7200-8458-11eb-821d-baa74d9bc9fe.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/76802722/111057859-83e8e980-8458-11eb-8958-9ff834847b95.png)
+
